@@ -1,0 +1,162 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.page-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+  line-height: 1.2;
+  font-weight: 900;
+  margin-bottom: 3rem;
+}
+
+.white-section {
+  background-color: white;
+}
+
+.title-image {
+  transform: rotate(30deg);
+  width: 60%;
+  right: 30%;
+  position: absolute;
+  float: none;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+/* NAVIGATION BAR */
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  margin: auto;
+  padding: 2rem 0 4.5rem;
+  margin-bottom: 0px;
+}
+
+.nav-item {
+  padding: 0 18px 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+
+.container-fluid {
+  padding: 7%, 15%;
+}
+
+/* BUTTONS */
+.download-button {
+  margin: 5%;
+}
+
+/* FEATURES */
+#features {
+  text-align: center;
+  padding: 10rem 5rem 5rem 5rem;
+  position: relative;
+}
+
+#features .container-fluid {
+  padding: 3% 5% 7%;
+  font-size: .9rem;
+}
+
+.features-heading {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.features-item {
+  padding: 0px 50px 0px 50px;
+}
+
+.features-icon {
+  font-size: 50px;
+  color: #ef8172;
+  margin-bottom: 20px;
+}
+.features-icon:hover {
+  font-size: 50px;
+  color: #ff4c68;
+  margin-bottom: 20px;
+}
+
+/* TESTIMONIALS  */
+
+#testimonials {
+  text-align: center;
+  padding: 7%, 15%;
+  background-color: #ef8172;
+  color: white;
+  padding: 8rem 10% 8rem 10%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 30px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 8%;
+}
+.press-image {
+  width: 15%;
+  margin: 0px 50px 0px 20px;
+}
+
+/* PRICING */
+
+#pricing {
+text-align: center;
+padding: 8rem 10% 8rem 10%;
+}
+
+.pricing-heading {
+  font-family: serif;
+  margin-bottom: 4rem;
+}
+
+/* CALL TO ACTION */
+
+#cta {
+  background-color: #ff4c68;
+  padding: 10rem 5% 10rem 5%;
+  text-align: center;
+  color: white;
+  font-family: serif;
+}
+.cta-heading {
+  font-size: 3.5rem;
+  margin-bottom: 3rem;
+}
+
+#footer {
+  text-align: center;
+  padding: 8rem 10% 8rem 10%;
+}
